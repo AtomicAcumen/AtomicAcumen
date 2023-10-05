@@ -29,6 +29,7 @@ body {
   background: #1C2022;
   color: #D9D9D9;
   overflow-x: hidden;
+  overflow-y: scroll;
 }
 header {
   display: flex;
