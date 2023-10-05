@@ -48,6 +48,15 @@ main {
   justify-content: center;
   padding: 1rem 2rem;
 }
+.animation-container {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
 h2 {
   color: #FFF;
   font-size: 3.9375rem;
@@ -143,6 +152,6 @@ p {
   }
   .main-content {
     position: relative;
-    padding-top: 5rem;
+    padding-top: 1rem;
   }
 }

@@ -3,10 +3,10 @@
             animation: rotate 30s infinite linear;
     height: 0;
     width: 0;
-    left: 80%;
+    left: 70%;
     perspective: 1000px;
     position: absolute;
-    top: 30%;
+    top: 40%;
     transform-style: preserve-3d;
   }
   .wrap .particle {
